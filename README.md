@@ -1,4 +1,4 @@
-# pm101starterkit
+# PM 101 Starter Kit
 Starter kit for budding product managers
 
 This is meant to provide a quick guide to taking the first steps into product management - building up product fundamentals.
